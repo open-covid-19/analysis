@@ -7,14 +7,14 @@ https://colab.research.google.com/github/open-covid-19/analysis.
 
 See below for a list and description of each of the notebooks in this repo.
 
-### Exponential Modeling
+### [Exponential Modeling](exponential_modeling.ipynb)
 This notebook explores modeling the spread of COVID-19 confirmed cases as an
 exponential function. While this is not a good model for long or even
 medium-term predictions, it is able to fit initial outbreaks quite well. For a
 more sophisticated and accurate model, see the
 [logistic modeling](logistic_modeling.ipynb) notebook.
 
-### Logistic Modeling
+### [Logistic Modeling](logistic_modeling.ipynb)
 This notebook explores modeling the spread of COVID-19 confirmed cases as a
 logistic function. It compares the accuracy of two sigmoid models:
 [simple logistic function](https://en.wikipedia.org/wiki/Logistic_function)
